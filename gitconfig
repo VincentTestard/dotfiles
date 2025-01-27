@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vincent.testard2003@gmail.com
+	name = vincent testard
